@@ -1,0 +1,11 @@
+Navigate the Menus After you run: sudo /opt/nvidia/jetson-io/jetson-io.py
+
+    Configure Jetson 24pin CSI Connector
+
+    Configure for compatible hardware
+
+    Camera IMX219 Dual
+
+    Save pin changes
+
+    Save and reboot to reconfigure pins ✅
